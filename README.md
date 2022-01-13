@@ -1,2 +1,2 @@
 # ThalesCodeAssessment
-Software Engineer at Thales code assessment
+Code assessment for the role of Software Engineer at Thales
