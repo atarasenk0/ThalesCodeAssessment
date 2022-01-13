@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Establish a form to obtain the wordSearch.csv file & word of interest-->
+    <h3>1.) Browse for the wordSearch.csv file.</h3>
+    <h3>2.) Specify word to search for in the wordSearch.csv array.</h3>
+    <h3>3.) Press Submit once both fields are complete.</h3>
+    <form id="inputForm">
+        <input type="file" id="csvFile" accept=".csv" />
+        <br/>
+        <input type="text" id="inputWord" name="inputWord">
+        <br/>
+        <input type="submit" value="Submit" />
+    </form>
+    <script src="index.js"></script>
+</body>
+</html>
