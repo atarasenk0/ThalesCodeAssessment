@@ -1,2 +1,2 @@
-# ThalesCodingAssessment
-Coding assessment for the role of Software Engineer at Thales
+# Basic word search app
+Practicing / learning nodeJS
